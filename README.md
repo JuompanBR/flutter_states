@@ -1,6 +1,6 @@
 # weather_app
 
-A simple Weather application belt in flutter
+A simple Weather application in flutter
 
 ## Getting Started
 
